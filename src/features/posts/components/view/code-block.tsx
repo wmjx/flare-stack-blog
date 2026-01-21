@@ -130,7 +130,7 @@ export const CodeBlock = memo(({ code, language }: CodeBlockProps) => {
         <div className="relative p-0 overflow-x-auto custom-scrollbar rounded-b-sm">
           <div className="text-sm font-mono leading-relaxed transition-opacity duration-300">
             <div
-              className="[&>pre]:p-6 [&>pre]:m-0 [&>pre]:min-w-full [&>pre]:w-fit [&>pre]:rounded-b-sm"
+              className="[&>pre]:p-6 [&>pre]:m-0 [&>pre]:min-w-full [&>pre]:w-fit [&>pre]:rounded-b-sm [&>pre>code]:p-0"
               dangerouslySetInnerHTML={{ __html: html }}
             />
           </div>
