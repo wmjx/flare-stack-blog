@@ -142,7 +142,10 @@
     },
   },
 }
-UMAMI
-UMAMI_SRC=https://cloud.umami.is
-UMAMI_API_KEY=api_xdM1fZOlyao8rXSxHHiyWTH4qR4occL7
-VITE_UMAMI_WEBSITE_ID=ff358895-7c5e-475d-b350-804eb09a29c4
+"umami cloud":[
+{
+UMAMI_SRC=https://cloud.umami.is,
+UMAMI_API_KEY=api_xdM1fZOlyao8rXSxHHiyWTH4qR4occL7,
+VITE_UMAMI_WEBSITE_ID=ff358895-7c5e-475d-b350-804eb09a29c4,
+},
+],
