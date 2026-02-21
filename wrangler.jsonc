@@ -8,7 +8,7 @@
     "enabled": true,
   },
 "keep_vars": true  
-"routes": [
+ "routes": [
     {
       "pattern": "www.wumingjianxia.eu.org",
       "custom_domain": true,
