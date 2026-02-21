@@ -24,7 +24,7 @@
   ],
   "r2_buckets": [
     {
-      "bucket_name": "blog",
+      "bucket_name": "BLOG",
       "binding": "R2",
       "remote": true,
     },
