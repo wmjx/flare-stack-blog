@@ -17,14 +17,14 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_id": "0339a983-7ccb-447b-b91b-7fafd673d177",
+      "database_id": "3140afe2-8c5d-4490-99ea-9da22fd78156",
       "migrations_dir": "migrations",
       "remote": true,
     },
   ],
   "r2_buckets": [
     {
-      "bucket_name": "BLOG",
+      "bucket_name": "flare-stack-blog",
       "binding": "R2",
       "remote": true,
     },
