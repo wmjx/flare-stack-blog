@@ -7,7 +7,7 @@
   "observability": {
     "enabled": true,
   },
-"keep_vars": true，
+"keep_vars": true,
  "routes": [
     {
       "pattern": "www.wumingjianxia.eu.org",
